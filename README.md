@@ -8,6 +8,7 @@ A small javascript script to like every shared post by a user.
 2. Open the profile of person You would like to disturb/spam :P.
   ( scroll down a bit, this works only on the loaded posts. ) 
 3. press Ctrl + Shift + J.
+  ( ignore warning by facebook )
 4. Copy and paste to code in [this](https://github.com/dewana-dewan/Facebook-LikeItAll/blob/master/like_shared_posts) file.
 5. __Voila__
   
