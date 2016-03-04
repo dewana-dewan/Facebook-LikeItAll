@@ -25,3 +25,7 @@ You can contribute to this project by sending a pull request. Feedbacks are most
 
 
 ###Facebook being a very secure site keeps on changing the class names frequently. So, this script might not work every time. Feel free to ping me for any help.
+
+##Uses
+1. To satisfy annoying friends, who want you to like all their posts.
+2. To tell people that you are stalking them. :P
