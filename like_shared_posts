@@ -1,0 +1,6 @@
+a = document.getElementsByClassName('_4-u2 mbm _5jmm _5pat _5v3q _4-u8');
+
+for(i = 0; i< a.length ; i++){
+	b = a[i];
+	var c = b.getElementsByClassName('UFILikeLink _48-k')[0].click();
+}
