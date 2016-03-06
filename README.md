@@ -11,20 +11,15 @@ A small javascript script to like every shared post by a user.
   ( ignore warning by facebook )
 4. Copy and paste to code in [this](https://github.com/dewana-dewan/Facebook-LikeItAll/blob/master/like_shared_posts) file.
 5. __Voila__
-    Just don't try this on me.
+
+Just don't try this on me.
 
 
 ##Created By
 Aditya Dewan - [Github](https://github.com/dewana-dewan), [Facebook](https://www.facebook.com/profile.php?id=100001674125654)
 
-##Maintened by
-Aditya Dewan - [Github](https://github.com/dewana-dewan), [Facebook](https://www.facebook.com/profile.php?id=100001674125654)
-
 ##Contributions
 You can contribute to this project by sending a pull request. Feedbacks are most welcome.
-
-
-###Facebook being a very secure site keeps on changing the class names frequently. So, this script might not work every time. Feel free to ping me for any help.
 
 ##Uses
 1. To satisfy annoying friends, who want you to like all their posts.
